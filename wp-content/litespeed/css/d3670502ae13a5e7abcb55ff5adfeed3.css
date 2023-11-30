@@ -170,16 +170,16 @@
 
 .elementor-246 .elementor-element.elementor-element-e879b06 .elementor-button {
     font-family: "gurdian", Sans-serif;
-    font-weight: 600;
-    fill: var(--e-global-color-d40664e);
-    color: var(--e-global-color-d40664e);
-    background-color: #FF00FF;
+    font-weight: 400;
+    fill: white;
+    color: white;
+    background-color: #7CC5E5    ;
     border-radius: 8px
 }
 
 .elementor-246 .elementor-element.elementor-element-e879b06 .elementor-button:hover,
 .elementor-246 .elementor-element.elementor-element-e879b06 .elementor-button:focus {
-    background-color: #F983FF
+    background-color: #7CC5E5;
 }
 
 .elementor-246 .elementor-element.elementor-element-d09eae1 {
@@ -332,7 +332,7 @@
 .elementor-246 .elementor-element.elementor-element-848da56 .elementor-heading-title {
     color: #FF00FF;
     font-family: "gurdian", Sans-serif;
-    font-size: 19px;
+    font-size: 39px;
     font-weight: 400
 }
 
@@ -7628,7 +7628,7 @@
 .elementor-246 .elementor-element.elementor-element-f19b4a1 .elementor-heading-title {
     color: var(--e-global-color-secondary);
     font-family: "gurdian", Sans-serif;
-    font-size: 27px;
+    font-size: 47px;
     font-weight: 600
 }
 
@@ -7680,8 +7680,8 @@
     --border-width-right: 1px;
     --border-width-bottom: 1px;
     --border-width-left: 1px;
-    border-color: #FF00FF;
-    --border-color: #FF00FF;
+    border-color: #7CC5E5;
+    --border-color: #7CC5E5;
     --border-radius: 16px;
     --border-top-left-radius: 16px;
     --border-top-right-radius: 16px;
@@ -7701,7 +7701,7 @@
 .elementor-246 .elementor-element.elementor-element-a1e3f08 .elementor-heading-title {
     color: var(--e-global-color-secondary);
     font-family: "gurdian", Sans-serif;
-    font-size: 17px;
+    font-size: 27px;
     font-weight: 600
 }
 
@@ -7941,9 +7941,9 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-60064e4 .elementor-heading-title {
-    color: #c9c4c4;
+    color: #7CC5E5  ;
     font-family: "gurdian", Sans-serif;
-    font-size: 16px;
+    font-size: 26px;
     font-weight: 400
 }
 
@@ -7969,7 +7969,7 @@
 .elementor-246 .elementor-element.elementor-element-e078f0d .elementor-heading-title {
     color: #fff;
     font-family: "gurdian", Sans-serif;
-    font-size: 17px;
+    font-size: 37px;
     font-weight: 500
 }
 
@@ -8026,9 +8026,9 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-cbfc779 .elementor-heading-title {
-    color: #c9c4c4;
+    color: #7CC5E5;
     font-family: "gurdian", Sans-serif;
-    font-size: 16px;
+    font-size: 26px;
     font-weight: 400
 }
 
@@ -8054,7 +8054,7 @@
 .elementor-246 .elementor-element.elementor-element-732435d .elementor-heading-title {
     color: #fff;
     font-family: "gurdian", Sans-serif;
-    font-size: 17px;
+    font-size: 27px;
     font-weight: 500
 }
 
@@ -8111,7 +8111,7 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-e9106a7 .elementor-heading-title {
-    color: #c9c4c4;
+    color: #ffffff;
     font-family: "gurdian", Sans-serif;
     font-size: 16px;
     font-weight: 400
@@ -8142,9 +8142,10 @@
 }
 
 .elementor-246 .elementor-element.elementor-element-8162ca9 .elementor-heading-title {
-    color: #FF00FF;
+    color: #7CC5E5
+    ;
     font-family: "gurdian", Sans-serif;
-    font-size: 17px;
+    font-size: 47px;
     font-weight: 400
 }
 
@@ -8802,7 +8803,7 @@
     font-weight: 600;
     fill: var(--e-global-color-primary);
     color: var(--e-global-color-primary);
-    background-color: var(--e-global-color-d40664e);
+    background-color: white;
     border-radius: 8px;
     padding: 14px 20px 8px 23px
 }
@@ -9469,7 +9470,7 @@
 
 @font-face {
     font-family: gurdian;
-    src: url(../../../aircruiser.tf);
+    src: url(../../../aircruiser-cdnfonts/aircruiser.ttf);
 }
 
 .elementor-246 .elementor-element.elementor-element-f205eca {
@@ -10647,7 +10648,7 @@ body.elementor-page-246>.elementor-motion-effects-container>.elementor-motion-ef
 
     .elementor-246 .elementor-element.elementor-element-6d96384:not(.elementor-motion-effects-element-type-background),
     .elementor-246 .elementor-element.elementor-element-6d96384>.elementor-motion-effects-container>.elementor-motion-effects-layer {
-        background-color: #FFB6C1;
+        background-color: #7CC5E5;
         background-position: top center;
         background-size: cover
     }
